@@ -1,0 +1,32 @@
+,ID,Name,Gender,Brand,Product name,Size,Continent,Country,Order value,Currency
+0,10000,Amalia Aurescu,Female,Aldo,Sneakers,37.0,Europe,Romania,250,RON
+1,10001,Berta Slujinskji,Female,Aldo,Boots,38.0,Europe,Czech Republic,140,EUR
+2,10002,Joel Patison,Male,New Balance,Trainers,32.0,Europe,Germany,130,EUR
+3,10003,Nikki Jaeger,Female,Zara,Flats,36.0,Europe,Netherlands,80,EUR
+4,10004,Diana Jay,Female,Supreme,Jacket,26.0,North America,Costa Rica,400,USD
+5,10005,Carlos Bruni,Male,Supreme,Sweater,28.0,North America,Mexico,520,USD
+6,10006,Shin Zo,Male,Gucci,Blouse,32.0,Asia,South Korea,730,EUR
+7,10007,Andreea Joita,Female,Mango,Blouse,24.0,Europe,Romania,200,RON
+8,10008,John Marksman,Male,Adidas,Sneakers,39.0,Australia,Australia,300,EUR
+9,10009,Aki Piyush,Male,Guess,Jacket,34.0,Asia,Thailand,210,EUR
+10,10010,Marie Blaisse,Female,Tommy Hilfiger,Accessories,,Europe,France,185,EUR
+11,10011,Sarah Jackson,Female,Mango,Blouse,26.0,North America,USA,420,USD
+12,10012,Harvey Specter,Male,Bigotti,Suit,52.0,North America,USA,850,USD
+13,10013,Margot Anderson,Female,Zara,Jacket,26.0,Europe,UK,230,EUR
+14,10014,Marcus Croissant,Male,Supreme,Hoodie,28.0,Europe,France,70,EUR
+15,10015,Esperanza Martiolli,Female,Stradivarius,Dress,24.0,Europe,Italy,120,EUR
+16,10016,Gino Moretti,Male,Gucci,Suit,54.0,Europe,Italy,700,EUR
+17,10017,Jonas Bin,Male,Tommy Hilfiger,T-Shirt,30.0,Europe,UK,350,EUR
+18,10018,Johanna Pol,Female,Stradivarius,Jeans,26.0,Europe,Poland,135,EUR
+19,10019,Himari Jin,Female,Valentino,Bag,,Asia,Japonia,860,USD
+20,10020,Ion Tiriac,Male,UGG,Boots,41.0,Europe,Romania,2854,RON
+21,10021,John Smith,Male,Rolex,Watch,,Europe,UK,4800,EUR
+22,10022,Emily Davis,Female,Gucci,Dress,28.0,Europe,France,1200,EUR
+23,10023,David Lee,Male,Nike,Sneakers,45.0,Asia,China,150,USD
+24,10024,Sarah Johnson,Female,Michael Kors,Bag,,Asia,UAE,225,USD
+25,10025,Michael Chen,Male,Adidas,Running Shoes,43.0,North America,Canada,130,USD
+26,10026,Jessica Wong,Female,Zara,Pumps,38.0,Europe,Germany,70,EUR
+27,10027,Brian Kim,Male,Ray-Ban,Sunglasses,,Europe,Portugal,120,EUR
+28,10028,Laura Garcia,Female,North Face,Coat,30.0,Europe,Spain,199,EUR
+29,10029,Robert Davis,Male,Levi's,Jeans,28.0,South America,Argentina,80,USD
+30,10030,Rachel Lee,Female,UGG,Boots,34.0,Asia,South Korea,170,USD

@@ -1,0 +1,33 @@
+ID,Name,Gender,Brand,Product name,Size,Date order,Continent,Country,Order value,Currency
+10000,Amalia Aurescu,Female,Aldo,Sneakers,37,16.02.2023,Europe,Romania,250,RON
+10001,Berta Slujinskji,Female,Aldo,Boots,38,18.02.2023,Europe,Czech Republic,140,EUR
+10002,Joel Patison,Male,New Balance,Trainers,32,19.02.2023,Europe,Germany,130,EUR
+10003,Nikki Jaeger,Female,Zara,Flats,36,20.02.2023,Europe,Netherlands,80,EUR
+10004,Diana Jay,Female,Supreme,Jacket,26,20.02.2023,North America,Costa Rica,400,USD
+10005,Carlos Bruni,Male,Supreme,Sweater,28,21.02.2023,North America,Mexico,520,USD
+10006,Shin Zo,Male,Gucci,Blouse,32,22.02.2023,Asia,South Korea,730,EUR
+10007,Andreea Joita,Female,Mango,Blouse,24,22.02.2023,Europe,Romania,200,RON
+10008,John Marksman,Male,Adidas,Sneakers,39,23.02.2023,Australia,Australia,300,EUR
+10009,Aki Piyush,Male,Guess,Jacket,34,28.02.2023,Asia,Thailand,210,EUR
+10010,Marie Blaisse,Female,Tommy Hilfiger,Accessories,N/A,06.03.2023,Europe,France,185,EUR
+10011,Sarah Jackson,Female,Mango,Blouse,26,10.03.2023,North America,USA,420,USD
+10012,Harvey Specter,Male,Bigotti,Suit,52,24.03.2023,North America,USA,850,USD
+10013,Margot Anderson,Female,Zara,Jacket,26,24.03.2023,Europe,UK,230,EUR
+10014,Marcus Croissant,Male,Supreme,Hoodie,28,24.03.2023,Europe,France,70,EUR
+10015,Esperanza Martiolli,Female,Stradivarius,Dress,24,25.03.2023,Europe,Italy,120,EUR
+10016,Gino Moretti,Male,Gucci,Suit,54,25.03.2023,Europe,Italy,700,EUR
+10017,Jonas Bin,Male,Tommy Hilfiger,T-Shirt,30,26.03.2023,Europe,UK,350,EUR
+10018,Johanna Pol,Female,Stradivarius,Jeans,26,26.03.2023,Europe,Poland,135,EUR
+10019,Himari Jin,Female,Valentino,Bag,N/A,27.03.2023,Asia,Japonia,860,USD
+10020,Ion Tiriac,Male,UGG,Boots,41,27.03.2023,Europe,Romania,2854,RON
+10021,John Smith,Male,Rolex,Watch,N/A,29.03.2023,Europe,UK,4800,EUR
+10022,Emily Davis,Female,Gucci,Dress,28,24.03.2023,Europe,France,1200,EUR
+10023,David Lee,Male,Nike,Sneakers,45,25.03.2023,Asia,China,150,USD
+10024,Sarah Johnson,Female,Michael Kors,Bag,N/A,20.03.2023,Asia,UAE,225,USD
+10025,Michael Chen,Male,Adidas,Running Shoes,43,26.03.2023,North America,Canada,130,USD
+10026,Jessica Wong,Female,Zara,Pumps,38,26.03.2023,Europe,Germany,70,EUR
+10027,Brian Kim,Male,Ray-Ban,Sunglasses,N/A,19.03.2023,Europe,Portugal,120,EUR
+10028,Laura Garcia,Female,North Face,Coat,30,27.03.2023,Europe,Spain,199,EUR
+10029,Robert Davis,Male,Levi's,Jeans,28,29.03.2023,South America,Argentina,80,USD
+10030,Rachel Lee,Female,UGG,Boots,34,24.03.2023,Asia,South Korea,170,USD
+
